@@ -5,12 +5,3 @@ export default defineConfig({
     tailwindcss(),
   ],
 })
-module.exports = {
-  theme: {
-    extend: {
-      height: {
-        'screen-full': '100vh',
-      },
-    },
-  },
-};
